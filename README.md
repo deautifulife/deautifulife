@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=Deautifulife%20Github&fontSize=80)
-
 <div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=Deautifulife%20Github&fontSize=80)
 
 ### Languages
 <div>
