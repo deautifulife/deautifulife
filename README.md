@@ -7,6 +7,7 @@
 
 ### SNS
 <div>
-<a href="https://velog.io/@deautifulife" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>  
+<a href="https://velog.io/@deautifulife" target="_blank"><img src="https://img.shields.io/badge/Tech%20Blog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>  
+<a href="https://blog.naver.com/deautifulife" target="_blank"><img src="https://img.shields.io/badge/Naver%20Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>  
 </div>
 
