@@ -6,4 +6,4 @@
 </div>
 
 ### SNS
-<a href="https://velog.io/@deautifulife"><img src="https://img.shields.io/badge/Tech%20Blog-#20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@deautifulife"/></a>&nbsp
+<a href="https://velog.io/@deautifulife"><img src="https://img.shields.io/badge/Tech%20Blog-#20C997?style=flat-square&logo=Velog&logoColor=white"/></a>&nbsp
